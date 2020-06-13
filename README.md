@@ -22,5 +22,5 @@ The code should be short, clean and reusable, don't write the same on everywhere
 
 ### Create Descriptive Names 
 
-Don't call your vars/functions as VARIABLE1, ABC, or something like that. Call it as DBINSTANCE, CREDS...
+Don't call your vars/functions as VARIABLE1, ABC, or something like that. Call it as DBINSTANCE, CREDS... Need help with naming? Just follow python naming conventions!
 
